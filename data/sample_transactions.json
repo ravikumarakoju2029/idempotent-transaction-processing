@@ -1,0 +1,8 @@
+[
+  {"transactionId":"TXN-2002","requestId":"REQ-2","sequenceNumber":2,"accountId":"ACC-201","transactionType":"DEBIT","amount":40,"currency":"INR"},
+  {"transactionId":"TXN-2001","requestId":"REQ-1","sequenceNumber":1,"accountId":"ACC-201","transactionType":"CREDIT","amount":100,"currency":"INR"},
+  {"transactionId":"TXN-2002","requestId":"REQ-2-DUP","sequenceNumber":2,"accountId":"ACC-201","transactionType":"DEBIT","amount":40,"currency":"INR"},
+  {"transactionId":"TXN-2003","requestId":"REQ-3","sequenceNumber":3,"accountId":"ACC-201","transactionType":"CREDIT","amount":25,"currency":"INR"},
+  {"transactionId":"TXN-2004","requestId":"REQ-4","sequenceNumber":4,"accountId":"ACC-202","transactionType":"DEBIT","amount":-10,"currency":"INR"},
+  {"transactionId":"TXN-2005","requestId":"REQ-5","sequenceNumber":1,"accountId":"ACC-203","transactionType":"CREDIT","amount":500,"currency":"INR"}
+]
